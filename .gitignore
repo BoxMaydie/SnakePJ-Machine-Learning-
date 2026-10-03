@@ -1,0 +1,7 @@
+# Executables & Binaries
+*.exe
+*.o
+*.obj
+
+# Editor settings
+.vscode/
